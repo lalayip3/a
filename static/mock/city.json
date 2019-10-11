@@ -1,0 +1,172 @@
+{
+	"ret": true,
+	"data":{
+    "hotCities": [{
+      "id": 1,
+			"spell": "sheungwan",
+			"name": "上環"
+		}, {
+			"id": 3,
+			"spell": "central",
+			"name": "中環"
+		}, {
+			"id": 47,
+			"spell": "admiralty",
+			"name": "金鐘"
+		}, {
+			"id": 239,
+			"spell": "wanchai",
+			"name": "灣仔"
+		}, {
+			"id": 188,
+			"spell": "causewaybay",
+			"name": "銅鑼灣"
+		}],
+
+    "cities": {
+			"港島": [{
+				"id": 56,
+				"spell": "kennedytown",
+				"name": "堅尼地城"
+			}, {
+				"id": 57,
+				"spell": "shektongtsui",
+				"name": "石塘咀"
+			}, {
+				"id": 58,
+				"spell": "saiyingpun",
+				"name": "西營盤"
+			}, {
+				"id": 59,
+				"spell": "sheungwan",
+				"name": "上環"
+			}, {
+				"id": 60,
+				"spell": "central",
+				"name": "中環"
+			}, {
+				"id": 61,
+				"spell": "admiralty",
+				"name": "金鐘"
+			}, {
+				"id": 62,
+				"spell": "midlevels",
+				"name": "半山區"
+			}, {
+				"id": 63,
+				"spell": "peak",
+				"name": "山頂"
+			}],
+
+
+			"九 龍": [{
+				"id": 1,
+				"spell": "tsimshatsui,",
+				"name": "尖沙咀"
+			}, {
+				"id": 66,
+				"spell": "yaumatei",
+				"name": "油麻地"
+			}, {
+				"id": 67,
+				"spell": "westkowloonreclamation",
+				"name": "西九龍填海區"
+			}, {
+				"id": 68,
+				"spell": "kingspark",
+				"name": "京士柏"
+			}, {
+				"id": 69,
+				"spell": "mongkok,",
+				"name": "旺角"
+			}, {
+				"id": 70,
+				"spell": "taikoktsui",
+				"name": "大角咀"
+			},
+        {
+          "id": 71,
+          "spell": "tsimshatsui,",
+          "name": "尖沙咀"
+        }, {
+          "id": 72,
+          "spell": "yaumatei",
+          "name": "油麻地"
+        }, {
+          "id": 73,
+          "spell": "westkowloonreclamation",
+          "name": "西九龍填海區"
+        }, {
+          "id": 74,
+          "spell": "kingspark",
+          "name": "京士柏"
+        }, {
+          "id": 75,
+          "spell": "mongkok,",
+          "name": "旺角"
+        }, {
+          "id": 76,
+          "spell": "taikoktsui",
+          "name": "大角咀"
+        },{
+          "id": 77,
+          "spell": "tsimshatsui,",
+          "name": "尖沙咀"
+        }, {
+          "id": 78,
+          "spell": "yaumatei",
+          "name": "油麻地"
+        }, {
+          "id": 79,
+          "spell": "westkowloonreclamation",
+          "name": "西九龍填海區"
+        }, {
+          "id": 80,
+          "spell": "kingspark",
+          "name": "京士柏"
+        }, {
+          "id": 81,
+          "spell": "mongkok,",
+          "name": "旺角"
+        }, {
+          "id": 82,
+          "spell": "taikoktsui",
+          "name": "大角咀"
+        }],
+
+      "新界": [{
+				"id": 2,
+				"spell": "hungshuikiu,",
+				"name": "洪水橋"
+			}, {
+				"id": 5,
+				"spell": "hatsuen",
+				"name": "廈村"
+			}, {
+				"id": 6,
+				"spell": "laufaushan",
+				"name": "流浮山"
+			}, {
+				"id": 7,
+				"spell": "tinshuiwai",
+				"name": "天水圍"
+			}, {
+				"id": 8,
+				"spell": "yuenlong",
+				"name": "元朗"
+			}, {
+				"id": 84,
+				"spell": "santin",
+				"name": "新田"
+			}, {
+				"id": 85,
+				"spell": "lokmachau",
+				"name": "落馬洲"
+			}, {
+				"id": 86,
+				"spell": "kamtin",
+				"name": "錦田"
+      }]
+		}
+	}
+}
