@@ -1,0 +1,118 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "./static/mock/img/4.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "https://mk0hejetexoli305yw85.kinstacdn.com/wp-content/uploads/2019/10/2104e33e-rw-pavilions-yahoo-1200x628-v02.gif"
+      },{
+        "id": "0003",
+        "imgUrl": "./static/mock/img/3.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "./static/mock/img/IMG_20191005_211922.jpg"
+      }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
+      "desc": "買樓"
+    }, {
+      "id": "0002",
+      "imgUrl": "./static/mock/img/租房.jpg",
+      "desc": "租樓"
+    }, {
+      "id": "0003",
+      "imgUrl": "./static/mock/img/成交.jpg",
+      "desc": "成交"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
+      "desc": "一手"
+    }, {
+      "id": "0005",
+      "imgUrl": "./static/mock/img/联系.jpg",
+      "desc": "聯繫"
+    }, {
+      "id": "0006",
+      "imgUrl": "./static/mock/img/二手房.jpg",
+      "desc": "二手房"
+    }, {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
+      "desc": "屋苑專頁"
+    }, {
+      "id": "0008",
+      "imgUrl": "./static/mock/img/计算.jpg",
+      "desc": "按揭計算"
+    }, {
+      "id": "0009",
+      "imgUrl": "./static/mock/img/地产.jpg",
+      "desc": "地產會"
+    },
+      {
+        "id": "0010",
+        "imgUrl": "./static/mock/img/飞机.jpg",
+        "desc": "海外地產"
+      },
+      {
+        "id": "0011",
+        "imgUrl": "./static/mock/img/贷款.png",
+        "desc": "貸款"
+      }
+    ],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570620868458&di=71a90c6fc9d18e83893e4be72dae84ea&imgtype=0&src=http%3A%2F%2Ftgi13.jia.com%2F123%2F661%2F23661029.jpg",
+      "title": "德昌大廈",
+      "desc": "700萬"
+    }, {
+      "id": "0002",
+      "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570621138774&di=c8d75bcaa175065b230fef30c4ee437a&imgtype=0&src=http%3A%2F%2Fwww.winmind.cc%2Fuploads%2Fimage%2F20140121%2F1390307190.jpg",
+      "title": "海悅灣",
+      "desc": "5000萬"
+    }, {
+      "id": "0003",
+      "imgUrl": "https://cdn-images.lifestyle.rea-asia.com/wp-content/uploads/2019/09/25144951/Ultima_2017_CMYK-1024x768.jpg",
+      "title": "何文田",
+      "desc": "1000萬"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://image79.360doc.com/DownloadImg/2014/11/1306/47054850_2",
+      "title": "壽臣山別墅",
+      "desc": "6000萬"
+    }, {
+      "id": "0005",
+      "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570627358324&di=1b3bced81be3941bb9d545634aa72752&imgtype=0&src=http%3A%2F%2Fhk.centanet.com%2Fprophighlight%2Fimage%2F325%2Fcedrus%2520-%2520pool%2520and%2520garden%2520%2528night%2529.jpg",
+      "title": "南埼",
+      "desc": "6500萬"
+    }],
+    "houseList": [{
+      "id": "0001",
+      "imgUrl": "https://tgi1.jia.com/112/636/12636743.png",
+      "title": "何文田龍柏花園",
+      "desc": "1000萬"
+    }, {
+      "id": "0002",
+      "imgUrl": "https://tgi1.jia.com/113/695/13695083.jpg",
+      "title": "九龍塘尚與中層B室",
+      "desc": "1200萬"
+    }, {
+      "id": "0003",
+      "imgUrl": "https://tgi1.jia.com/118/525/18525142.jpg",
+      "title": "大浦雅景花園",
+      "desc": "2000萬"
+    }, {
+      "id": "0004",
+      "imgUrl": "https://tgi12.jia.com/112/611/12611435.png",
+      "title": "九肚山駿景園",
+      "desc": "3200萬"
+    }, {
+      "id": "0005",
+      "imgUrl": "https://tgi1.jia.com/zximg/201509/85a69e6ec1b9.jpg",
+      "title": "淺月灣",
+      "desc": "800萬"
+    }]
+  }
+}

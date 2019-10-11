@@ -1,0 +1,22 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "德昌大廈",
+    "bannerImg": "http://hk.centanet.com/prophighlight/image/394/outlook_2.jpg",
+    "gallaryImgs": ["http://hk.centanet.com/prophighlight/image/394/outlook_2.jpg", "http://galxaytravel.com/wp-content/uploads/2018/07/6-1532258166.jpeg"],
+    "categoryList": [
+            {
+              "title": "1座25樓11室"
+            },
+            {
+              "title": "售1200萬"
+            },
+            {
+              "title": "實用459呎"
+            },
+            {
+              "title": "建築618呎"
+            }
+    ]
+  }
+}
